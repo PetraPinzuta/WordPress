@@ -1,0 +1,1379 @@
+# Copyright (C) 2017 ThemeIsle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Belise 1.0.9\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/belise/issues\n"
+"POT-Creation-Date: 2017-08-24 11:47:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:17 template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: archive-event.php:43 archive.php:54 inc/woocommerce/functions.php:158
+#: index.php:50 search.php:40 taxonomy-event-category.php:43
+#: taxonomy-event-tag.php:43 taxonomy-event-venue.php:43
+msgid "Prev page"
+msgstr ""
+
+#: archive-event.php:44 archive.php:55 inc/woocommerce/functions.php:159
+#: index.php:51 search.php:41 taxonomy-event-category.php:44
+#: taxonomy-event-tag.php:44 taxonomy-event-venue.php:44
+msgid "Next page"
+msgstr ""
+
+#: comments.php:42
+msgid "Leave A Reply"
+msgstr ""
+
+#: comments.php:49 comments.php:81
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:85
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:55 comments.php:87
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:101
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:24 inc/customizer.php:67 inc/customizer.php:299
+#: inc/template-tags.php:593
+msgid "Edit the email address in Customizer"
+msgstr ""
+
+#: footer.php:43 inc/features/belise-copyright.php:18
+#: inc/features/belise-copyright.php:56
+#. translators: 1: theme name, 2: WordPress link
+msgid "%1$s Powered by %2$s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Belise"
+msgstr ""
+
+#: footer.php:43 inc/features/belise-copyright.php:18
+#: inc/features/belise-copyright.php:56
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary"
+msgstr ""
+
+#: functions.php:79
+msgid "Categories"
+msgstr ""
+
+#: functions.php:80
+msgid "Social Icons"
+msgstr ""
+
+#: functions.php:81
+msgid "Shop"
+msgstr ""
+
+#: functions.php:152
+msgid "Events"
+msgstr ""
+
+#: functions.php:153
+msgid "About Services"
+msgstr ""
+
+#: functions.php:159
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:173
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:194
+msgid "You can edit this ribbon under "
+msgstr ""
+
+#: functions.php:195
+msgid "Widgets in the Ribbon Area"
+msgstr ""
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:233
+msgid "Main sidebar widgets."
+msgstr ""
+
+#: functions.php:243
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:254
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:265
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:276
+msgid "Events section"
+msgstr ""
+
+#: functions.php:278
+msgid "Add widgets here to display them on FrontPage within Events Section"
+msgstr ""
+
+#: functions.php:472
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:477
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:29 inc/customizer.php:51 inc/customizer.php:292
+#: inc/template-tags.php:237
+msgid "Edit the phone number in Customizer"
+msgstr ""
+
+#: inc/belise-main-events-functions.php:17
+msgid "Main Events Page Template Sidebar"
+msgstr ""
+
+#: inc/belise-main-events-functions.php:50
+msgid ""
+"Customize this section by adding widgets in the Main Events Page Template "
+"Sidebar area"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+#. translators: 1: plugin name(s).
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:345
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:351
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:357
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:363
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:384
+#: inc/class-tgm-plugin-activation.php:828
+#: inc/class-tgm-plugin-activation.php:2551
+#: inc/class-tgm-plugin-activation.php:3573
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+#: inc/class-tgm-plugin-activation.php:3178
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:2971
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:936
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:936
+#: inc/class-tgm-plugin-activation.php:944
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:944
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2000
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2291
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2294
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2310
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2313
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2316
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2337
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2339
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2345
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2348
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2351
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2410
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2414
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2508
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2516
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2528
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2551
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2565
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2566
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2571
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2572
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2621
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2626
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2702
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2735
+#: inc/features/belise-about-page-lite.php:125
+#: inc/features/belise-about-page-lite.php:139
+#: inc/features/belise-about-page.php:125
+#: inc/features/belise-about-page.php:142
+#: inc/features/belise-pro-features.php:224
+#: inc/features/belise-pro-features.php:241
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2741
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2744
+#: inc/features/belise-about-page-lite.php:126
+#: inc/features/belise-about-page-lite.php:140
+#: inc/features/belise-about-page.php:126
+#: inc/features/belise-about-page.php:143
+#: inc/features/belise-pro-features.php:225
+#: inc/features/belise-pro-features.php:242
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2777
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2818
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2820
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2927
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2953
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3177
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3491
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3494
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3496
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3500
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3502
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3502
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3502
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3505
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3508
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3511
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3513
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/class/color-scheme-control.php:283
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/class/color-scheme-control.php:291
+msgid "Color scheme 1"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/class/color-scheme-control.php:299
+msgid "Color scheme 2"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/class/color-scheme-control.php:307
+msgid "Color scheme 3"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/functions.php:27
+msgid "Main text color"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/functions.php:47
+msgid "Color scheme"
+msgstr ""
+
+#: inc/customizer/customizer-color-scheme/functions.php:64
+msgid "Accent color"
+msgstr ""
+
+#: inc/customizer/customizer-multiple-choice/customizer-multiple-choice.php:96
+#: inc/extras.php:202
+msgid "Random"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:24
+#: inc/customizer/customizer-pro/customizer-theme-info.php:53
+msgid "View PRO version"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:42
+msgid "Get full color schemes support for your site. "
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:43
+msgid "Social sharing icons"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:44
+msgid "Page template for events"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:45
+msgid "Control the related categories for food menus"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:46
+msgid "Possibility to add your own copyright message in footer"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:47
+msgid "Hide the date on single post page"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:48
+msgid "Deactivate search in header"
+msgstr ""
+
+#: inc/customizer/customizer-pro/customizer-theme-info.php:49
+#: inc/features/belise-about-page-lite.php:39
+#: inc/features/belise-about-page.php:39
+#: inc/features/belise-pro-features.php:138
+msgid "Support"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Frontpage sections"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Advanced options"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "E-mail address "
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Enable breadcrumbs on shop pages"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Enable sorting options on shop pages"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Enable details tabs on single product pages"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Add link on food menu title to single page"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:20
+#: inc/features/belise-about-page-lite.php:22
+#: inc/features/belise-about-page.php:20 inc/features/belise-about-page.php:22
+msgid "About Belise Lite"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:25
+#: inc/features/belise-about-page.php:25
+#: inc/features/belise-pro-features.php:124
+#. translators: %s: version number
+msgid "Welcome to %s! - Version "
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:28
+#: inc/features/belise-about-page.php:28
+#: inc/features/belise-pro-features.php:127
+#. translators: 1: theme name, 2: theme name
+msgid ""
+"%1$s is now installed and ready to use! We want to make sure you have the "
+"best experience using %2$s and that is why we gathered here all the "
+"necessary information for you. We hope you will enjoy using %3$s, as much "
+"as we enjoy creating great products."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:36
+#: inc/features/belise-about-page.php:36
+#: inc/features/belise-pro-features.php:135
+msgid "Getting Started"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:37
+#: inc/features/belise-about-page.php:37
+#: inc/features/belise-pro-features.php:136
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:38
+#: inc/features/belise-about-page.php:38
+#: inc/features/belise-pro-features.php:137
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:40
+#: inc/features/belise-about-page-lite.php:64
+#: inc/features/belise-about-page.php:40 inc/features/belise-about-page.php:64
+#: inc/features/belise-pro-features.php:139
+#: inc/features/belise-pro-features.php:163
+msgid "Changelog"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:45
+#: inc/features/belise-about-page-lite.php:48
+#: inc/features/belise-about-page.php:45 inc/features/belise-about-page.php:48
+#: inc/features/belise-pro-features.php:144
+#: inc/features/belise-pro-features.php:147
+msgid "Contact Support"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:47
+#: inc/features/belise-about-page.php:47
+#: inc/features/belise-pro-features.php:146
+msgid ""
+"We offer excellent support through our advanced ticketing system. Make sure "
+"to register your purchase before contacting support!"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:54
+#: inc/features/belise-about-page.php:54
+#: inc/features/belise-pro-features.php:153
+msgid "Documentation"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:57
+#: inc/features/belise-about-page.php:57
+#: inc/features/belise-pro-features.php:156
+#. translators: %s: theme name
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and "
+"outs of using %s."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:58
+#: inc/features/belise-about-page.php:58
+#: inc/features/belise-pro-features.php:157
+msgid "See our full documentation"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:66
+#: inc/features/belise-about-page.php:66
+#: inc/features/belise-pro-features.php:165
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our "
+"changelog below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:67
+#: inc/features/belise-about-page.php:67
+#: inc/features/belise-pro-features.php:166
+msgid "See changelog"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:73
+#: inc/features/belise-about-page.php:73
+#: inc/features/belise-pro-features.php:172
+msgid "Create a child theme"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:75
+#: inc/features/belise-about-page.php:75
+#: inc/features/belise-pro-features.php:174
+msgid ""
+"If you want to make changes to the theme's files, those changes are likely "
+"to be overwritten when you next update the theme. In order to prevent that "
+"from happening, you need to create a child theme. For this, please follow "
+"the documentation below."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:76
+#: inc/features/belise-about-page-lite.php:85
+#: inc/features/belise-about-page-lite.php:94
+#: inc/features/belise-about-page.php:76 inc/features/belise-about-page.php:85
+#: inc/features/belise-about-page.php:94
+#: inc/features/belise-pro-features.php:175
+#: inc/features/belise-pro-features.php:184
+#: inc/features/belise-pro-features.php:193
+msgid "View how to do this"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:82
+#: inc/features/belise-about-page.php:82
+#: inc/features/belise-pro-features.php:181
+msgid "Speed up your site"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:84
+#: inc/features/belise-about-page.php:84
+#: inc/features/belise-pro-features.php:183
+msgid ""
+"If you find yourself in the situation where everything on your site is "
+"running very slow, you might consider having a look at the below "
+"documentation where you will find the most common issues causing this and "
+"possible solutions for each of the issues."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:91
+#: inc/features/belise-about-page.php:91
+#: inc/features/belise-pro-features.php:190
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:93
+#: inc/features/belise-about-page.php:93
+#: inc/features/belise-pro-features.php:192
+msgid ""
+"In the below documentation you will find an easy way to build a great "
+"looking landing page using a drag-and-drop content builder plugin."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:103
+#: inc/features/belise-about-page.php:103
+#: inc/features/belise-pro-features.php:202
+msgid "Step 1 - Implement recommended actions"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:104
+#: inc/features/belise-about-page.php:104
+#: inc/features/belise-pro-features.php:203
+msgid ""
+"We have compiled a list of steps for you, to take make sure the experience "
+"you will have using one of our products is very easy to follow."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:105
+#: inc/features/belise-about-page.php:105
+#: inc/features/belise-pro-features.php:204
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:112
+#: inc/features/belise-about-page.php:112
+#: inc/features/belise-pro-features.php:211
+msgid "Step 2 - Check our documentation"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:113
+#: inc/features/belise-about-page.php:113
+#: inc/features/belise-pro-features.php:212
+msgid ""
+"Even if you are a long-time WordPress user, we still believe you should "
+"give our documentation a very quick Read."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:114
+#: inc/features/belise-about-page.php:114
+#: inc/features/belise-pro-features.php:213
+msgid "Full documentation"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:123
+#: inc/features/belise-about-page.php:123
+#: inc/features/belise-pro-features.php:222
+msgid "Already activated"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:124
+#: inc/features/belise-about-page.php:124
+#: inc/features/belise-pro-features.php:223
+msgid "Version: "
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:127
+#: inc/features/belise-about-page-lite.php:141
+#: inc/features/belise-about-page.php:127
+#: inc/features/belise-about-page.php:144
+#: inc/features/belise-pro-features.php:226
+#: inc/features/belise-pro-features.php:243
+msgid "Deactivate"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:144
+#: inc/features/belise-about-page.php:147
+#: inc/features/belise-pro-features.php:246
+msgid "Event Organiser"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:145
+#: inc/features/belise-about-page.php:148
+#: inc/features/belise-pro-features.php:247
+msgid ""
+"If you want to take full advantage of the options this theme has to offer, "
+"please install and activate Event Organiser"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:151
+#: inc/features/belise-about-page.php:154
+#: inc/features/belise-pro-features.php:253
+msgid "Jetpack"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:152
+#: inc/features/belise-about-page.php:155
+#: inc/features/belise-pro-features.php:254
+msgid "Belise is compatible with Jetpack sharring module."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:163
+#: inc/features/belise-about-page.php:175
+#: inc/features/belise-pro-features.php:274
+msgid "Customize everything"
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:164
+#: inc/features/belise-about-page.php:176
+#: inc/features/belise-pro-features.php:275
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/features/belise-about-page-lite.php:165
+#: inc/features/belise-about-page.php:177
+#: inc/features/belise-pro-features.php:276
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/features/belise-about-page.php:166
+#: inc/features/belise-pro-features.php:265
+msgid "Step 3 - Import the demo content"
+msgstr ""
+
+#: inc/features/belise-about-page.php:167
+#: inc/features/belise-pro-features.php:266
+msgid ""
+"With a simple one click demo import, you can have your site ready to "
+"customize."
+msgstr ""
+
+#: inc/features/belise-about-page.php:168
+#: inc/features/belise-pro-features.php:267
+msgid "Import demo"
+msgstr ""
+
+#: inc/features/belise-about.php:23
+msgid "About section"
+msgstr ""
+
+#: inc/features/belise-about.php:45
+msgid "About Content"
+msgstr ""
+
+#: inc/features/belise-about.php:72
+msgid "Featured image"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:20
+#: inc/features/belise-big-title.php:20
+msgid "Big title section"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:26
+#: inc/features/belise-big-title.php:26
+#: inc/sections/belise-big-title-section.php:16
+msgid "Edit this text in Customizer"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:36
+#: inc/features/belise-big-title.php:37
+#: inc/sections/belise-ribbon-section.php:145
+msgid "Title"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:42
+#: inc/features/belise-big-title.php:46
+#: inc/sections/belise-big-title-section.php:19
+msgid "Change button text in Front Page"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:52
+#: inc/features/belise-big-title.php:56
+msgid "Button Text"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:68
+#: inc/features/belise-big-title.php:72
+msgid "Button Link"
+msgstr ""
+
+#: inc/features/belise-big-title-lite.php:85
+#: inc/features/belise-big-title.php:89
+msgid "Hero image"
+msgstr ""
+
+#: inc/features/belise-copyright.php:29
+msgid "Copyright "
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:29 inc/features/belise-menus.php:29
+msgid "Menus section"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:47 inc/features/belise-menus.php:47
+msgid "Menus Categories"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:56 inc/features/belise-menus-lite.php:197
+#: inc/features/belise-menus.php:56 inc/features/belise-menus.php:199
+#: inc/sections/belise-menus-section.php:32
+msgid "Change schedule title in Front Page"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:66 inc/features/belise-menus.php:66
+msgid "Schedule Title"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:72 inc/features/belise-menus.php:72
+#: inc/sections/belise-menus-section.php:40
+msgid "Change schedule content in Front Page"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:83 inc/features/belise-menus.php:84
+msgid "Schedule Content"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:104 inc/features/belise-menus.php:106
+#. translators: %s: plugin name
+msgid "To have access to a food menu section please install and configure %1$s."
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:105 inc/features/belise-menus.php:107
+msgid "Jetpack plugin"
+msgstr ""
+
+#: inc/features/belise-menus-lite.php:124 inc/features/belise-menus.php:126
+msgid "None"
+msgstr ""
+
+#: inc/features/belise-pro-features.php:34
+msgid "Hide date on single page"
+msgstr ""
+
+#: inc/features/belise-pro-features.php:51
+msgid "Hide search button in header"
+msgstr ""
+
+#: inc/features/belise-pro-features.php:119
+#: inc/features/belise-pro-features.php:121
+msgid "About Belise"
+msgstr ""
+
+#: inc/features/meta-controls/assets/belise-meta-fields.php:23
+#: inc/features/meta-controls/assets/belise-template-metabox.php:45
+msgid "Text before title"
+msgstr ""
+
+#: inc/features/meta-controls/assets/belise-meta-fields.php:30
+msgid "Related categories"
+msgstr ""
+
+#: inc/sections/belise-menus-section.php:177
+#: inc/sections/belise-menus-section.php:178 inc/template-tags.php:701
+#: inc/template-tags.php:702
+msgid "See menu"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:17
+msgid "Ribbon area"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:47
+msgid "Belise - Ribbon"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:155
+msgid "Text"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:165
+msgid "Button text"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:175
+msgid "Button link"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:185
+#: inc/sections/belise-taxonomy-meta-image.php:49
+#: inc/sections/belise-taxonomy-meta-image.php:77
+msgid "Image"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:218
+msgid "Uploaded image"
+msgstr ""
+
+#: inc/sections/belise-ribbon-section.php:234
+msgid "Upload Image"
+msgstr ""
+
+#: inc/sections/belise-taxonomy-meta-image.php:53
+#: inc/sections/belise-taxonomy-meta-image.php:90
+msgid "Add Image"
+msgstr ""
+
+#: inc/sections/belise-taxonomy-meta-image.php:54
+#: inc/sections/belise-taxonomy-meta-image.php:91
+msgid "Remove Image"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:747
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:55 inc/template-tags.php:754
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:64 inc/template-tags.php:764
+msgid "Posted under"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Post Author"
+msgstr ""
+
+#: inc/template-tags.php:200
+msgid "Leave your reply"
+msgstr ""
+
+#: inc/template-tags.php:205
+msgid "Submit"
+msgstr ""
+
+#: inc/template-tags.php:210
+msgid "Name"
+msgstr ""
+
+#: inc/template-tags.php:215
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:221
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:403
+#. translators: %s: search query
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:409
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/template-tags.php:444
+msgid "Blog"
+msgstr ""
+
+#: inc/template-tags.php:489
+msgid "Post categories +"
+msgstr ""
+
+#: inc/template-tags.php:517
+msgid "Shop menu +"
+msgstr ""
+
+#: inc/template-tags.php:629
+msgid "Customize this section by adding widgets in the Events area"
+msgstr ""
+
+#: inc/woocommerce/functions.php:18
+msgid "Cart"
+msgstr ""
+
+#: inc/woocommerce/functions.php:30
+#. translators: %s: search query
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/woocommerce/functions.php:34
+#. translators: %s: page number
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: single.php:32
+msgid "Prev post"
+msgstr ""
+
+#: single.php:33
+msgid "Next post"
+msgstr ""
+
+#: template-main-events.php:33
+msgid "Recent Posts"
+msgstr ""
+
+#: template-main-events.php:50 template-main-events.php:52
+msgid "See all Posts"
+msgstr ""
+
+#: template-parts/content-event.php:39
+msgid "Date"
+msgstr ""
+
+#: template-parts/content-event.php:57
+msgid "Hour"
+msgstr ""
+
+#: template-parts/content-event.php:80
+msgid "Address"
+msgstr ""
+
+#: template-parts/content-event.php:117 template-parts/content-food-menu.php:33
+#: template-parts/content-single.php:59
+#. translators: %s: Name of current post.
+msgid "Continue reading %s"
+msgstr ""
+
+#: template-parts/content-event.php:129
+#: template-parts/content-page-full-width.php:21
+#: template-parts/content-page-header.php:20 template-parts/content-page.php:34
+#: template-parts/content-single.php:71
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#. translators: 1: link href, 2: link title
+msgid "Ready to publish your first post? %s."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page-full-width.php:35
+#: template-parts/content-page-header.php:33 template-parts/content-page.php:48
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/belise"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Belise is a clean and minimalist WordPress theme for restaurants and food "
+"websites. It provides a responsive design, nice food menus via Jetpack "
+"plugin, an Events section, and a beautiful portfolio also integrated with "
+"Jetpack. You can use Belise to make your restaurant look stunning in the "
+"online zone. Apart from that, the theme is good for ecommerce because it is "
+"WooCommerce ready. Live Customizer, WPML compatibility, contact form "
+"integration, and quality support are other features that make Belise great "
+"for your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page with Header"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Main Events Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Header"
+msgstr ""
+
+#: comments.php:35
+#. translators: %s: number of comments
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#. translators: %s: number of comments
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:331
+#. Translators: If there are characters in your language that are not supported
+#. by Works Sans / Lora, translate this to 'off'. Do not translate into your
+#. own language.
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:332
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1132
+#: inc/class-tgm-plugin-activation.php:2967
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2360
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2500
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/template-tags.php:31
+#. translators: %s: author name
+msgctxt "post author"
+msgid "by %s"
+msgstr ""

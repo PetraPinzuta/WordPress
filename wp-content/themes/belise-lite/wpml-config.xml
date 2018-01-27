@@ -1,0 +1,18 @@
+<wpml-config>
+    <admin-texts>
+        <key name='theme_mods_belise-lite'>
+            <key name='belise_contact_phone' />
+            <key name='belise_contact_email' />
+            <key name='belise_nova_menu_title_links' />
+            <key name='belise_menus_section_categories' />
+            <key name='belise_front_page_title' />
+            <key name='belise_front_page_schedule_title' />
+            <key name='belise_front_page_schedule_content' />
+            <key name='belise_front_page_title' />
+            <key name='belise_front_page_button_text' />
+            <key name='belise_front_page_button_link' />
+            <key name='belise_front_page_image' />
+            <key name='belise_copyright_text' />
+        </key>
+    </admin-texts>
+</wpml-config>
